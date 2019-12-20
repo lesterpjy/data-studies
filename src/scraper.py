@@ -10,10 +10,10 @@ import pandas as pd
 import inspect
 
 # Defines secret keys and access tokens specific to our Twitter account
-consumer_key = 'PO16uGkoc4FlGANaRlGbWhWZX'
-consumer_secret = 'tWp3IBpKHXzqtTy9Mwb2ZyUsynq8D2DjpQRxlPrtrGFIUw98nD'
-access_token_key = '1192791905773355009-Md0vbFcUBotVNDLM2ZmaVwRaheBLRS'
-access_token_secret = 'r0euTsjheT0mF8HCSReZuECCmw6JYzXO3zre6byyIROzo'
+consumer_key = ''
+consumer_secret = ''
+access_token_key = ''
+access_token_secret = ''
 
 # Sets variables for encryption handling and Authenication
 auth = tw.OAuthHandler(consumer_key, consumer_secret)
